@@ -2,51 +2,44 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
     class Program
-
     {
         static void Main(string[] args)
         {
-            string modelo, t1, p1;
-            double km, potencia;
+            string s;
+            char pos;
+            int i, vogal;
+            
+            vogal = 0;
 
-            Console.WriteLine("Qual o modelo do veiculo?");
-            modelo = Convert.ToString(Console.ReadLine());
-            Console.WriteLine("Qual a potência do veículo?");
-            potencia = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Qual a quilometragem do veículo?");
-            km = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("qual?");
+            s = Console.ReadLine();
+            
+            for (i = 0 ; i < s.Length ; i++)
+            {
+                pos = s[i];
 
-            if (km <= 5000)
-            {
-                Console.WriteLine("veículo é novo");
-            }
-            else if (km > 5000 && km <30000)
-            {
-                Console.WriteLine("veículo é semi novo");
-            }
-            else 
-            {
-                Console.WriteLine("veículo é velho");
-            }
-            if (potencia > 120 && potencia <= 200)
-            {
-                Console.WriteLine("veículo é forte");
-            }
-            else if (potencia > 200)
-            {
-                Console.WriteLine("veículo é potente");
-            }
-            else
-            {
-                Console.WriteLine("veículo é popular");
-            }
+                if (pos == 'a' || pos == 'A')
+                vogal++;
 
-            Console.ReadKey();
+                else if (pos == 'e'  || pos == 'E')
+                vogal++;
+
+                else if (pos == 'i' ||  pos == 'I')
+                vogal++;
+
+                else if (pos == 'o' ||  pos == 'O')
+                vogal++;
+
+                else if (pos == 'u' ||  pos == 'U')
+                vogal++;
+
+               Console.WriteLine("São {0}", vogal);
+            }
+            
 
         }
     }
