@@ -9,32 +9,37 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            string modelo, temp, P;
-            double km, potencia;
+            string s;
+            char pos;
+            int i, vogal;
+            
+            vogal = 0;
 
-            Console.WriteLine("Informe o modelo do carro");
-            modelo = Console.ReadLine();
+            Console.WriteLine("qual?");
+            s = Console.ReadLine();
+            
+            for (i = 0 ; i < s.Length ; i++)
+            {
+                pos = s[i];
 
-            Console.WriteLine("Informe a quilometragem do carro");
-            km = Convert.ToDouble(Console.ReadLine());
+                if (pos == 'a' || pos == 'A')
+                vogal++;
 
-            Console.WriteLine("Informe a potencia do carro");
-            potencia = Convert.ToDouble(Console.ReadLine());
+                else if (pos == 'e'  || pos == 'E')
+                vogal++;
 
-            if (km < 5000)
-                temp = "novo";
-            else if (km >= 5000 && km <= 30000)
-                temp = "seminovo";
-            else
-                temp = "velho";
-            if (potencia > 200)
-                P = "potente";
-            else if (potencia > 120 && potencia <= 200)
-                P = "forte";
-            else
-                P = "popular";
+                else if (pos == 'i' ||  pos == 'I')
+                vogal++;
 
-            Console.WriteLine("O {0} - {1} - {2}", modelo, temp, P);
+                else if (pos == 'o' ||  pos == 'O')
+                vogal++;
+
+                else if (pos == 'u' ||  pos == 'U')
+                vogal++;
+
+               Console.WriteLine("São {0}", vogal);
+            }
+            
 
         }
     }
