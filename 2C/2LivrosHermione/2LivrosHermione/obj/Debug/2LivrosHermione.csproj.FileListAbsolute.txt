@@ -1,0 +1,6 @@
+C:\Users\Danilo\Desktop\RafaelaGoncalvesLP2\2LivrosHermione\2LivrosHermione\bin\Debug\2LivrosHermione.exe.config
+C:\Users\Danilo\Desktop\RafaelaGoncalvesLP2\2LivrosHermione\2LivrosHermione\bin\Debug\2LivrosHermione.exe
+C:\Users\Danilo\Desktop\RafaelaGoncalvesLP2\2LivrosHermione\2LivrosHermione\bin\Debug\2LivrosHermione.pdb
+C:\Users\Danilo\Desktop\RafaelaGoncalvesLP2\2LivrosHermione\2LivrosHermione\obj\Debug\2LivrosHermione.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Desktop\RafaelaGoncalvesLP2\2LivrosHermione\2LivrosHermione\obj\Debug\2LivrosHermione.exe
+C:\Users\Danilo\Desktop\RafaelaGoncalvesLP2\2LivrosHermione\2LivrosHermione\obj\Debug\2LivrosHermione.pdb

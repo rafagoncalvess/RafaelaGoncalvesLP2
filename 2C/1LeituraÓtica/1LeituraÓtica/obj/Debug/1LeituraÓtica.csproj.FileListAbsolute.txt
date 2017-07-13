@@ -1,0 +1,6 @@
+C:\Users\Danilo\Desktop\RafaelaGoncalvesLP2\2C\1LeituraÓtica\1LeituraÓtica\bin\Debug\1LeituraÓtica.exe.config
+C:\Users\Danilo\Desktop\RafaelaGoncalvesLP2\2C\1LeituraÓtica\1LeituraÓtica\bin\Debug\1LeituraÓtica.exe
+C:\Users\Danilo\Desktop\RafaelaGoncalvesLP2\2C\1LeituraÓtica\1LeituraÓtica\bin\Debug\1LeituraÓtica.pdb
+C:\Users\Danilo\Desktop\RafaelaGoncalvesLP2\2C\1LeituraÓtica\1LeituraÓtica\obj\Debug\1LeituraÓtica.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Desktop\RafaelaGoncalvesLP2\2C\1LeituraÓtica\1LeituraÓtica\obj\Debug\1LeituraÓtica.exe
+C:\Users\Danilo\Desktop\RafaelaGoncalvesLP2\2C\1LeituraÓtica\1LeituraÓtica\obj\Debug\1LeituraÓtica.pdb
