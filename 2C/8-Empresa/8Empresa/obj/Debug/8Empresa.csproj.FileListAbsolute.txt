@@ -1,0 +1,6 @@
+C:\Users\alunoct\Desktop\DaniloSantosFaustinoLP2\2C\8Empresa\8Empresa\bin\Debug\8Empresa.exe.config
+C:\Users\alunoct\Desktop\DaniloSantosFaustinoLP2\2C\8Empresa\8Empresa\obj\Debug\8Empresa.csprojResolveAssemblyReference.cache
+C:\Users\alunoct\Desktop\DaniloSantosFaustinoLP2\2C\8Empresa\8Empresa\bin\Debug\8Empresa.exe
+C:\Users\alunoct\Desktop\DaniloSantosFaustinoLP2\2C\8Empresa\8Empresa\bin\Debug\8Empresa.pdb
+C:\Users\alunoct\Desktop\DaniloSantosFaustinoLP2\2C\8Empresa\8Empresa\obj\Debug\8Empresa.exe
+C:\Users\alunoct\Desktop\DaniloSantosFaustinoLP2\2C\8Empresa\8Empresa\obj\Debug\8Empresa.pdb
