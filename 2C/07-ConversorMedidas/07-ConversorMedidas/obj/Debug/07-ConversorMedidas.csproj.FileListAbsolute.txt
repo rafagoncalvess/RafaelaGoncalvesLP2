@@ -1,0 +1,6 @@
+C:\Users\alunoct\Desktop\RafaelaGoncalvesLP2\2C\07-ConversorMedidas\07-ConversorMedidas\bin\Debug\07-ConversorMedidas.exe.config
+C:\Users\alunoct\Desktop\RafaelaGoncalvesLP2\2C\07-ConversorMedidas\07-ConversorMedidas\obj\Debug\07-ConversorMedidas.csprojResolveAssemblyReference.cache
+C:\Users\alunoct\Desktop\RafaelaGoncalvesLP2\2C\07-ConversorMedidas\07-ConversorMedidas\bin\Debug\07-ConversorMedidas.exe
+C:\Users\alunoct\Desktop\RafaelaGoncalvesLP2\2C\07-ConversorMedidas\07-ConversorMedidas\bin\Debug\07-ConversorMedidas.pdb
+C:\Users\alunoct\Desktop\RafaelaGoncalvesLP2\2C\07-ConversorMedidas\07-ConversorMedidas\obj\Debug\07-ConversorMedidas.exe
+C:\Users\alunoct\Desktop\RafaelaGoncalvesLP2\2C\07-ConversorMedidas\07-ConversorMedidas\obj\Debug\07-ConversorMedidas.pdb
