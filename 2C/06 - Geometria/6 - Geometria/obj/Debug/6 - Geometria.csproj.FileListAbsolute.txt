@@ -1,0 +1,6 @@
+C:\Users\alunoct\Desktop\RafaelaGoncalvesLP2\2C\06 - Geometria\6 - Geometria\bin\Debug\6 - Geometria.exe.config
+C:\Users\alunoct\Desktop\RafaelaGoncalvesLP2\2C\06 - Geometria\6 - Geometria\bin\Debug\6 - Geometria.exe
+C:\Users\alunoct\Desktop\RafaelaGoncalvesLP2\2C\06 - Geometria\6 - Geometria\bin\Debug\6 - Geometria.pdb
+C:\Users\alunoct\Desktop\RafaelaGoncalvesLP2\2C\06 - Geometria\6 - Geometria\obj\Debug\6 - Geometria.csprojResolveAssemblyReference.cache
+C:\Users\alunoct\Desktop\RafaelaGoncalvesLP2\2C\06 - Geometria\6 - Geometria\obj\Debug\6 - Geometria.exe
+C:\Users\alunoct\Desktop\RafaelaGoncalvesLP2\2C\06 - Geometria\6 - Geometria\obj\Debug\6 - Geometria.pdb
