@@ -12,7 +12,7 @@ namespace _8Empresa
         public string Entrada { get; set; }
         public Gerente gente { get; set; }
 
-        public Empregado(int reg, string data) : base(reg)
+        public Empregado(int reg, string data, string c) : base(reg, c)
         {
             this.Entrada = data;
         }

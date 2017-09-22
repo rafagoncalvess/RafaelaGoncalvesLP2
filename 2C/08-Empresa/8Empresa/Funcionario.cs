@@ -11,13 +11,27 @@ namespace _8Empresa
         public int Registro { get; set; }
         public string Nome { get; set; }
         public double Salario { get; set; }
-        public int CPF { get; set; }
+
+        protected string cpf;
+        public string CPF
+        {
+            get
+            {
+                return cpf;
+            }
+            set
+            {
+                if (value.Length == 11)
+                    cpf = value;
+            }
+        }
         public string Email { get; set; }
 
-        public Funcionario(int reg)
+        public Funcionario(int reg, string cpf)
         {
-            Registro = reg; 
+            Registro = reg;
+            CPF = cpf;
         }
-        
+
     }
 }
