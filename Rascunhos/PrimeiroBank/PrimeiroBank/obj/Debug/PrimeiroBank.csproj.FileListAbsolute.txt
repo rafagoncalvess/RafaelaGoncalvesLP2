@@ -1,0 +1,6 @@
+C:\Users\alunoct\Desktop\DaniloSantosFaustinoLP2\Rascunhos\PrimeiroBank\PrimeiroBank\bin\Debug\PrimeiroBank.exe.config
+C:\Users\alunoct\Desktop\DaniloSantosFaustinoLP2\Rascunhos\PrimeiroBank\PrimeiroBank\bin\Debug\PrimeiroBank.exe
+C:\Users\alunoct\Desktop\DaniloSantosFaustinoLP2\Rascunhos\PrimeiroBank\PrimeiroBank\bin\Debug\PrimeiroBank.pdb
+C:\Users\alunoct\Desktop\DaniloSantosFaustinoLP2\Rascunhos\PrimeiroBank\PrimeiroBank\obj\Debug\PrimeiroBank.csprojResolveAssemblyReference.cache
+C:\Users\alunoct\Desktop\DaniloSantosFaustinoLP2\Rascunhos\PrimeiroBank\PrimeiroBank\obj\Debug\PrimeiroBank.exe
+C:\Users\alunoct\Desktop\DaniloSantosFaustinoLP2\Rascunhos\PrimeiroBank\PrimeiroBank\obj\Debug\PrimeiroBank.pdb
