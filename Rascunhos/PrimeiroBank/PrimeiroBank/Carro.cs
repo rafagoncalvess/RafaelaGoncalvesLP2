@@ -28,5 +28,10 @@ namespace PrimeiroBank
                                  INTO CARRO(marca,modelo,cor,placa,potencia)
                                  VALUES ('{0}', '{1}', '{2}', '{3}', {4});", @Marca, @Modelo, @Cor, @Placa, @Potencia);
         }
+
+        public string Remover() {
+
+
+    }
     }
 }
